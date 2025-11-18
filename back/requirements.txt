@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+supabase
+python-jose[cryptography]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+google-generativeai
+pydantic[email]
+passlib[bcrypt]
+PyJWT
+httpx
